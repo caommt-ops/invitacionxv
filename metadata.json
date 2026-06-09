@@ -1,6 +1,0 @@
-{
-  "name": "Invitación XV Vicky",
-  "description": "Invitación web interactiva para los XV Años de Vicky, con sobre animado, música de fondo, cuenta regresiva y confirmación de asistencia.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
